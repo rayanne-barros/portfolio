@@ -10,7 +10,7 @@ export { getContent } from './getContent';
 export default function Projetos({ projects }) {
   return (
     <Box
-      minHeight="80vh"
+      minHeight="70vh"
       marginTop={{
         xs: '120px',
         md: '150px',
